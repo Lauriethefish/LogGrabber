@@ -1,0 +1,4 @@
+/target
+*.zip
+/platform-tools
+Cargo.lock
